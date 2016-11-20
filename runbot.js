@@ -1,4 +1,4 @@
-var Sandbox = require.safe("sandbox"),
+var Sandbox = require("sandbox"),
     sandbox = new Sandbox();
 
 exports.run = function(api, event) {
